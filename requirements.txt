@@ -1,0 +1,13 @@
+streamlit
+pytesseract
+pdf2image
+pandas
+spacy
+PyMuPDF
+PyPDF2
+pdfplumber
+opencv-python
+pillow
+fastapi
+uvicorn
+python-multipart
